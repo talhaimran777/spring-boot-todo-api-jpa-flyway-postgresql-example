@@ -46,3 +46,6 @@ settings.gradle
 gradlew
 .gradle
 !gradle/wrapper/gradle-wrapper.jar
+
+### JPB ###
+.jpb/
