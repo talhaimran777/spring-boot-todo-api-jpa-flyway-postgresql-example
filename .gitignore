@@ -46,6 +46,3 @@ settings.gradle
 gradlew
 .gradle
 !gradle/wrapper/gradle-wrapper.jar
-
-### Application properties
-src/main/resources/application.properties
